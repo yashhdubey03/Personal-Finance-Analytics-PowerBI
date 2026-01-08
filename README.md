@@ -77,11 +77,7 @@ Additional visuals and breakdowns are available in the `screenshots` folder.
 ---
 
 
-## Notes
-
-This project was initially inspired by a guided Power BI project available on YouTube.  
-However, the final implementation differs from the guided version, with extensive modifications to the DAX logic and the creation of multiple custom measures to achieve the final analytical report.
-
-The focus of this repository is on data modeling, analytical reasoning, and meaningful financial insights.
-
----
+> **Note**
+>
+> This project was initially inspired by a guided Power BI project available on YouTube.  
+> The final implementation diverges from the guided version, with substantial changes to the DAX logic and the addition of multiple custom measures and tables to achieve the final analytical report.
