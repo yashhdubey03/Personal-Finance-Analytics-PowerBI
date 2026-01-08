@@ -42,7 +42,7 @@ The emphasis is on clarity, interpretability, and analytical depth rather than d
 The interactive version of this dashboard has been published on Power BI Service and can be accessed using the link below:
 
 🔗 **View Live Report:**  
-[Open Personal Finance Insights Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiMjU5MDczZWItY2ZlNy00NTU5LTk5YWMtZjBmNDc2YzM1MmM1IiwidCI6ImFlY2ZkNDQ2LThlZGEtNDA1YS1hNzk0LTdkNzk0MGFmMDRkZiJ9&pageName=1ea39a98b00690e437ac))
+[🔗](https://app.powerbi.com/view?r=eyJrIjoiMjU5MDczZWItY2ZlNy00NTU5LTk5YWMtZjBmNDc2YzM1MmM1IiwidCI6ImFlY2ZkNDQ2LThlZGEtNDA1YS1hNzk0LTdkNzk0MGFmMDRkZiJ9&pageName=1ea39a98b00690e437ac)
 
 The published report allows full interaction with filters and visuals as intended in the Power BI environment.
 
