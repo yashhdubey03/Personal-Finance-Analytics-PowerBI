@@ -13,7 +13,6 @@ The dashboard consolidates multiple years of financial data into an interactive 
 - [Analytical Focus](#analytical-focus)
 - [Technical Approach](#technical-approach)
 - [Screenshots](#screenshots)
-- [Repository Structure](#repository-structure)
 - [Notes](#notes)
 
 ---
